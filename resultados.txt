@@ -1,0 +1,77 @@
+----------------------------------------------------------------------------
+
+Usue 25000.
+ precision = 1.00, recall = 0.92, F1-score = 0.96 
+  TP = 46, FP = 0, FN = 4, average IoU = 80.71 % 
+
+ mean average precision (mAP) = 0.909091, or 90.91 %
+
+Usue 50000.
+ precision = 1.00, recall = 0.96, F1-score = 0.98 
+  TP = 48, FP = 0, FN = 2, average IoU = 80.93 % 
+
+ mean average precision (mAP) = 0.909091, or 90.91 %
+
+Usue 75000.
+precision = 0.96, recall = 0.98, F1-score = 0.97 
+  TP = 49, FP = 2, FN = 1, average IoU = 75.53 % 
+
+ mean average precision (mAP) = 0.897233, or 89.72 %
+
+
+Ensemble.
+precision = 0.96, recall = 1.00, F1-score = 0.98 
+  TP = 50, FP = 2, FN = 0, average IoU = 78.03 % 
+
+ mean average precision (mAP) = 0.987522, or 98.75 %
+
+----------------------------------------------------------------------------
+
+Arantza 25000.
+precision = 0.96, recall = 0.58, F1-score = 0.72 
+  TP = 49, FP = 2, FN = 36, average IoU = 76.34 % 
+
+ mean average precision (mAP) = 0.545455, or 54.55 %
+
+Arantza 50000.
+precision = 0.87, recall = 0.98, F1-score = 0.92 
+  TP = 83, FP = 12, FN = 2, average IoU = 72.83 % 
+
+ mean average precision (mAP) = 0.898515, or 89.85 %
+
+Arantza 75000.
+precision = 0.84, recall = 0.95, F1-score = 0.89 
+  TP = 81, FP = 16, FN = 4, average IoU = 68.04 % 
+
+ mean average precision (mAP) = 0.903548, or 90.35 %
+
+precision = 0.95, recall = 0.99, F1-score = 0.97 
+  TP = 84, FP = 4, FN = 1, average IoU = 79.72 % 
+
+ mean average precision (mAP) = 0.898614, or 89.86 %
+
+----------------------------------------------------------------------------
+
+Alvaro 25000.
+precision = 0.95, recall = 0.58, F1-score = 0.72 
+  TP = 53, FP = 3, FN = 38, average IoU = 70.51 % 
+
+ mean average precision (mAP) = 0.530032, or 53.00 %
+
+Alvaro 50000.
+precision = 0.86, recall = 0.91, F1-score = 0.88 
+  TP = 83, FP = 14, FN = 8, average IoU = 65.75 % 
+
+ mean average precision (mAP) = 0.785060, or 78.51 %
+
+Alvaro 75000.
+precision = 0.90, recall = 0.88, F1-score = 0.89 
+  TP = 80, FP = 9, FN = 11, average IoU = 69.86 % 
+ mean average precision (mAP) = 0.743543, or 74.35 %
+
+precision = 0.86, recall = 0.91, F1-score = 0.88 
+  TP = 83, FP = 14, FN = 8, average IoU = 64.99 % 
+
+ mean average precision (mAP) = 0.810139, or 81.01 %
+
+

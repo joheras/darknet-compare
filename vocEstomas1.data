@@ -1,0 +1,6 @@
+classes= 1
+train  = estomas/train.txt
+valid  = ppp/test.txt
+names = ppp/vocEstomas1.names
+backup = backup
+
